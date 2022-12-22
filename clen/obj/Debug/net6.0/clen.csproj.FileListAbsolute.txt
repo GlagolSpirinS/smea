@@ -1,0 +1,15 @@
+C:\Users\root\Desktop\clen\clen\bin\Debug\net6.0\clen.exe
+C:\Users\root\Desktop\clen\clen\bin\Debug\net6.0\clen.deps.json
+C:\Users\root\Desktop\clen\clen\bin\Debug\net6.0\clen.runtimeconfig.json
+C:\Users\root\Desktop\clen\clen\bin\Debug\net6.0\clen.dll
+C:\Users\root\Desktop\clen\clen\bin\Debug\net6.0\clen.pdb
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.AssemblyInfo.cs
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.dll
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\refint\clen.dll
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.pdb
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\clen.genruntimeconfig.cache
+C:\Users\root\Desktop\clen\clen\obj\Debug\net6.0\ref\clen.dll
